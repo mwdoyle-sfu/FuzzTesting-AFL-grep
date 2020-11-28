@@ -1,0 +1,662 @@
+DSF update at key=0x00083f, val=2 (0x00000002); new aggregate: 2 (0x00000002); earlier was: 0 (0x00000000)
+DSF update at key=0x000890, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 0 (0x00000000)
+DSF update at key=0x000bc6, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 0 (0x00000000)
+DSF update at key=0x002046, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 0 (0x00000000)
+DSF update at key=0x00228f, val=64 (0x00000040); new aggregate: 64 (0x00000040); earlier was: 0 (0x00000000)
+DSF update at key=0x00259f, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 0 (0x00000000)
+DSF update at key=0x0026f3, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 0 (0x00000000)
+DSF update at key=0x002754, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 0 (0x00000000)
+DSF update at key=0x002a3f, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 0 (0x00000000)
+DSF update at key=0x0030e1, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 0 (0x00000000)
+DSF update at key=0x00330e, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 0 (0x00000000)
+DSF update at key=0x0038c7, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 0 (0x00000000)
+DSF update at key=0x0038df, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 0 (0x00000000)
+DSF update at key=0x003942, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 0 (0x00000000)
+DSF update at key=0x003eea, val=2 (0x00000002); new aggregate: 2 (0x00000002); earlier was: 0 (0x00000000)
+DSF update at key=0x0041a2, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 0 (0x00000000)
+DSF update at key=0x004683, val=31 (0x0000001f); new aggregate: 31 (0x0000001f); earlier was: 0 (0x00000000)
+DSF update at key=0x0047a1, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 0 (0x00000000)
+DSF update at key=0x004c56, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 0 (0x00000000)
+DSF update at key=0x004ea5, val=5 (0x00000005); new aggregate: 5 (0x00000005); earlier was: 0 (0x00000000)
+DSF update at key=0x004ef3, val=64 (0x00000040); new aggregate: 64 (0x00000040); earlier was: 0 (0x00000000)
+DSF update at key=0x004fad, val=62 (0x0000003e); new aggregate: 62 (0x0000003e); earlier was: 0 (0x00000000)
+DSF update at key=0x0050ad, val=64 (0x00000040); new aggregate: 64 (0x00000040); earlier was: 0 (0x00000000)
+DSF update at key=0x00528d, val=60 (0x0000003c); new aggregate: 60 (0x0000003c); earlier was: 0 (0x00000000)
+DSF update at key=0x0052e1, val=31 (0x0000001f); new aggregate: 31 (0x0000001f); earlier was: 0 (0x00000000)
+DSF update at key=0x0055cc, val=63 (0x0000003f); new aggregate: 63 (0x0000003f); earlier was: 0 (0x00000000)
+DSF update at key=0x0056fd, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 0 (0x00000000)
+DSF update at key=0x005708, val=64 (0x00000040); new aggregate: 64 (0x00000040); earlier was: 0 (0x00000000)
+DSF update at key=0x00570f, val=2 (0x00000002); new aggregate: 2 (0x00000002); earlier was: 0 (0x00000000)
+DSF update at key=0x005df3, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 0 (0x00000000)
+DSF update at key=0x005e16, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 0 (0x00000000)
+DSF update at key=0x006486, val=3 (0x00000003); new aggregate: 3 (0x00000003); earlier was: 0 (0x00000000)
+DSF update at key=0x006623, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 0 (0x00000000)
+DSF update at key=0x0066d1, val=64 (0x00000040); new aggregate: 64 (0x00000040); earlier was: 0 (0x00000000)
+DSF update at key=0x006a9a, val=62 (0x0000003e); new aggregate: 62 (0x0000003e); earlier was: 0 (0x00000000)
+DSF update at key=0x006ecf, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 0 (0x00000000)
+DSF update at key=0x006f8f, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 0 (0x00000000)
+DSF update at key=0x006fc6, val=64 (0x00000040); new aggregate: 64 (0x00000040); earlier was: 0 (0x00000000)
+DSF update at key=0x007235, val=14 (0x0000000e); new aggregate: 14 (0x0000000e); earlier was: 0 (0x00000000)
+DSF update at key=0x007236, val=16 (0x00000010); new aggregate: 16 (0x00000010); earlier was: 0 (0x00000000)
+DSF update at key=0x00726a, val=31 (0x0000001f); new aggregate: 31 (0x0000001f); earlier was: 0 (0x00000000)
+DSF update at key=0x0072a0, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 0 (0x00000000)
+DSF update at key=0x0072cf, val=63 (0x0000003f); new aggregate: 63 (0x0000003f); earlier was: 0 (0x00000000)
+DSF update at key=0x007735, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 0 (0x00000000)
+DSF update at key=0x00780d, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 0 (0x00000000)
+DSF update at key=0x0078e1, val=64 (0x00000040); new aggregate: 64 (0x00000040); earlier was: 0 (0x00000000)
+DSF update at key=0x007945, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 0 (0x00000000)
+DSF update at key=0x007b50, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 0 (0x00000000)
+DSF update at key=0x007d09, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 0 (0x00000000)
+DSF update at key=0x0081ec, val=31 (0x0000001f); new aggregate: 31 (0x0000001f); earlier was: 0 (0x00000000)
+DSF update at key=0x00835a, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 0 (0x00000000)
+DSF update at key=0x0088f5, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 0 (0x00000000)
+DSF update at key=0x008a3f, val=63 (0x0000003f); new aggregate: 63 (0x0000003f); earlier was: 0 (0x00000000)
+DSF update at key=0x008d56, val=64 (0x00000040); new aggregate: 64 (0x00000040); earlier was: 0 (0x00000000)
+DSF update at key=0x0090b0, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 0 (0x00000000)
+DSF update at key=0x009268, val=63 (0x0000003f); new aggregate: 63 (0x0000003f); earlier was: 0 (0x00000000)
+DSF update at key=0x009bbd, val=64 (0x00000040); new aggregate: 64 (0x00000040); earlier was: 0 (0x00000000)
+DSF update at key=0x009c02, val=64 (0x00000040); new aggregate: 64 (0x00000040); earlier was: 0 (0x00000000)
+DSF update at key=0x009c18, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 0 (0x00000000)
+DSF update at key=0x00a186, val=3 (0x00000003); new aggregate: 3 (0x00000003); earlier was: 0 (0x00000000)
+DSF update at key=0x00a770, val=64 (0x00000040); new aggregate: 64 (0x00000040); earlier was: 0 (0x00000000)
+DSF update at key=0x00a9ee, val=31 (0x0000001f); new aggregate: 31 (0x0000001f); earlier was: 0 (0x00000000)
+DSF update at key=0x00aa49, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 0 (0x00000000)
+DSF update at key=0x00aaed, val=3 (0x00000003); new aggregate: 3 (0x00000003); earlier was: 0 (0x00000000)
+DSF update at key=0x00ad73, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 0 (0x00000000)
+DSF update at key=0x00b0b0, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 0 (0x00000000)
+DSF update at key=0x00b3ff, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 0 (0x00000000)
+DSF update at key=0x00bb15, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 0 (0x00000000)
+DSF update at key=0x00bf9e, val=64 (0x00000040); new aggregate: 64 (0x00000040); earlier was: 0 (0x00000000)
+DSF update at key=0x00c7e2, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 0 (0x00000000)
+DSF update at key=0x00cb76, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 0 (0x00000000)
+DSF update at key=0x00cc2d, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 0 (0x00000000)
+DSF update at key=0x00cf1c, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 0 (0x00000000)
+DSF update at key=0x00d0b6, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 0 (0x00000000)
+DSF update at key=0x00d162, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 0 (0x00000000)
+DSF update at key=0x00d2b9, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 0 (0x00000000)
+DSF update at key=0x00d8c1, val=64 (0x00000040); new aggregate: 64 (0x00000040); earlier was: 0 (0x00000000)
+DSF update at key=0x00ddd3, val=62 (0x0000003e); new aggregate: 62 (0x0000003e); earlier was: 0 (0x00000000)
+DSF update at key=0x00e48a, val=58 (0x0000003a); new aggregate: 58 (0x0000003a); earlier was: 0 (0x00000000)
+DSF update at key=0x00e514, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 0 (0x00000000)
+DSF update at key=0x00e5b8, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 0 (0x00000000)
+DSF update at key=0x00e622, val=64 (0x00000040); new aggregate: 64 (0x00000040); earlier was: 0 (0x00000000)
+DSF update at key=0x00eaea, val=63 (0x0000003f); new aggregate: 63 (0x0000003f); earlier was: 0 (0x00000000)
+DSF update at key=0x00ecd4, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 0 (0x00000000)
+DSF update at key=0x00ecd5, val=2 (0x00000002); new aggregate: 2 (0x00000002); earlier was: 0 (0x00000000)
+DSF update at key=0x00ecd6, val=2 (0x00000002); new aggregate: 2 (0x00000002); earlier was: 0 (0x00000000)
+DSF update at key=0x00ecd7, val=3 (0x00000003); new aggregate: 3 (0x00000003); earlier was: 0 (0x00000000)
+DSF update at key=0x00ecd8, val=2 (0x00000002); new aggregate: 2 (0x00000002); earlier was: 0 (0x00000000)
+DSF update at key=0x00ecd9, val=3 (0x00000003); new aggregate: 3 (0x00000003); earlier was: 0 (0x00000000)
+DSF update at key=0x00ecda, val=3 (0x00000003); new aggregate: 3 (0x00000003); earlier was: 0 (0x00000000)
+DSF update at key=0x00ecdb, val=2 (0x00000002); new aggregate: 2 (0x00000002); earlier was: 0 (0x00000000)
+DSF update at key=0x00ecdc, val=4 (0x00000004); new aggregate: 4 (0x00000004); earlier was: 0 (0x00000000)
+DSF update at key=0x00ecdd, val=3 (0x00000003); new aggregate: 3 (0x00000003); earlier was: 0 (0x00000000)
+DSF update at key=0x00ecde, val=2 (0x00000002); new aggregate: 2 (0x00000002); earlier was: 0 (0x00000000)
+DSF update at key=0x00ecdf, val=3 (0x00000003); new aggregate: 3 (0x00000003); earlier was: 0 (0x00000000)
+DSF update at key=0x00ece0, val=3 (0x00000003); new aggregate: 3 (0x00000003); earlier was: 0 (0x00000000)
+DSF update at key=0x00ece1, val=4 (0x00000004); new aggregate: 4 (0x00000004); earlier was: 0 (0x00000000)
+DSF update at key=0x00ece2, val=5 (0x00000005); new aggregate: 5 (0x00000005); earlier was: 0 (0x00000000)
+DSF update at key=0x00ece3, val=4 (0x00000004); new aggregate: 4 (0x00000004); earlier was: 0 (0x00000000)
+DSF update at key=0x00ece4, val=3 (0x00000003); new aggregate: 3 (0x00000003); earlier was: 0 (0x00000000)
+DSF update at key=0x00ece5, val=3 (0x00000003); new aggregate: 3 (0x00000003); earlier was: 0 (0x00000000)
+DSF update at key=0x00ece6, val=4 (0x00000004); new aggregate: 4 (0x00000004); earlier was: 0 (0x00000000)
+DSF update at key=0x00ece7, val=3 (0x00000003); new aggregate: 3 (0x00000003); earlier was: 0 (0x00000000)
+DSF update at key=0x00ece8, val=4 (0x00000004); new aggregate: 4 (0x00000004); earlier was: 0 (0x00000000)
+DSF update at key=0x00ece9, val=4 (0x00000004); new aggregate: 4 (0x00000004); earlier was: 0 (0x00000000)
+DSF update at key=0x00ecea, val=3 (0x00000003); new aggregate: 3 (0x00000003); earlier was: 0 (0x00000000)
+DSF update at key=0x00eceb, val=4 (0x00000004); new aggregate: 4 (0x00000004); earlier was: 0 (0x00000000)
+DSF update at key=0x00ecec, val=5 (0x00000005); new aggregate: 5 (0x00000005); earlier was: 0 (0x00000000)
+DSF update at key=0x00eced, val=3 (0x00000003); new aggregate: 3 (0x00000003); earlier was: 0 (0x00000000)
+DSF update at key=0x00ecee, val=4 (0x00000004); new aggregate: 4 (0x00000004); earlier was: 0 (0x00000000)
+DSF update at key=0x00ecef, val=5 (0x00000005); new aggregate: 5 (0x00000005); earlier was: 0 (0x00000000)
+DSF update at key=0x00ecf0, val=5 (0x00000005); new aggregate: 5 (0x00000005); earlier was: 0 (0x00000000)
+DSF update at key=0x00ecf1, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 0 (0x00000000)
+DSF update at key=0x00ecf2, val=4 (0x00000004); new aggregate: 4 (0x00000004); earlier was: 0 (0x00000000)
+DSF update at key=0x00ecf3, val=3 (0x00000003); new aggregate: 3 (0x00000003); earlier was: 0 (0x00000000)
+DSF update at key=0x00ecf4, val=4 (0x00000004); new aggregate: 4 (0x00000004); earlier was: 0 (0x00000000)
+DSF update at key=0x00ecf5, val=5 (0x00000005); new aggregate: 5 (0x00000005); earlier was: 0 (0x00000000)
+DSF update at key=0x00ecf6, val=5 (0x00000005); new aggregate: 5 (0x00000005); earlier was: 0 (0x00000000)
+DSF update at key=0x00ecf7, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 0 (0x00000000)
+DSF update at key=0x00ecf8, val=4 (0x00000004); new aggregate: 4 (0x00000004); earlier was: 0 (0x00000000)
+DSF update at key=0x00ecf9, val=4 (0x00000004); new aggregate: 4 (0x00000004); earlier was: 0 (0x00000000)
+DSF update at key=0x00ecfa, val=5 (0x00000005); new aggregate: 5 (0x00000005); earlier was: 0 (0x00000000)
+DSF update at key=0x00ecfb, val=1 (0x00000001); new aggregate: 1 (0x00000001); earlier was: 0 (0x00000000)
+DSF update at key=0x00ecfc, val=2 (0x00000002); new aggregate: 2 (0x00000002); earlier was: 0 (0x00000000)
+DSF update at key=0x00ecfd, val=3 (0x00000003); new aggregate: 3 (0x00000003); earlier was: 0 (0x00000000)
+DSF update at key=0x00ecfe, val=3 (0x00000003); new aggregate: 3 (0x00000003); earlier was: 0 (0x00000000)
+DSF update at key=0x00ecff, val=2 (0x00000002); new aggregate: 2 (0x00000002); earlier was: 0 (0x00000000)
+DSF update at key=0x00ed00, val=2 (0x00000002); new aggregate: 2 (0x00000002); earlier was: 0 (0x00000000)
+DSF update at key=0x00ed01, val=3 (0x00000003); new aggregate: 3 (0x00000003); earlier was: 0 (0x00000000)
+DSF update at key=0x00ed02, val=4 (0x00000004); new aggregate: 4 (0x00000004); earlier was: 0 (0x00000000)
+DSF update at key=0x00ed03, val=2 (0x00000002); new aggregate: 2 (0x00000002); earlier was: 0 (0x00000000)
+DSF update at key=0x00efed, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 0 (0x00000000)
+DSF update at key=0x00f17a, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 0 (0x00000000)
+DSF update at key=0x00f1f5, val=64 (0x00000040); new aggregate: 64 (0x00000040); earlier was: 0 (0x00000000)
+DSF update at key=0x00f334, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 0 (0x00000000)
+DSF update at key=0x00f4b1, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 0 (0x00000000)
+DSF update at key=0x00f4e2, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 0 (0x00000000)
+DSF update at key=0x00f89d, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 0 (0x00000000)
+DSF update at key=0x00f902, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 0 (0x00000000)
+DSF update at key=0x00f998, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 0 (0x00000000)
+DSF update at key=0x00fbdc, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 0 (0x00000000)
+DSF update at key=0x00fe31, val=31 (0x0000001f); new aggregate: 31 (0x0000001f); earlier was: 0 (0x00000000)
+======== Starting Keys ========
+# DSF map 0
+At key 0x00083f, val is 2 (hex=0x00000002)
+At key 0x000890, val is 8 (hex=0x00000008)
+At key 0x000bc6, val is 6 (hex=0x00000006)
+At key 0x002046, val is 32 (hex=0x00000020)
+At key 0x00228f, val is 64 (hex=0x00000040)
+At key 0x00259f, val is 32 (hex=0x00000020)
+At key 0x0026f3, val is 7 (hex=0x00000007)
+At key 0x002754, val is 32 (hex=0x00000020)
+At key 0x002a3f, val is 32 (hex=0x00000020)
+At key 0x0030e1, val is 8 (hex=0x00000008)
+At key 0x00330e, val is 6 (hex=0x00000006)
+At key 0x0038c7, val is 7 (hex=0x00000007)
+At key 0x0038df, val is 7 (hex=0x00000007)
+At key 0x003942, val is 32 (hex=0x00000020)
+At key 0x003eea, val is 2 (hex=0x00000002)
+At key 0x0041a2, val is 6 (hex=0x00000006)
+At key 0x004683, val is 31 (hex=0x0000001f)
+At key 0x0047a1, val is 8 (hex=0x00000008)
+At key 0x004c56, val is 8 (hex=0x00000008)
+At key 0x004ea5, val is 5 (hex=0x00000005)
+At key 0x004ef3, val is 64 (hex=0x00000040)
+At key 0x004fad, val is 62 (hex=0x0000003e)
+At key 0x0050ad, val is 64 (hex=0x00000040)
+At key 0x00528d, val is 60 (hex=0x0000003c)
+At key 0x0052e1, val is 31 (hex=0x0000001f)
+At key 0x0055cc, val is 63 (hex=0x0000003f)
+At key 0x0056fd, val is 32 (hex=0x00000020)
+At key 0x005708, val is 64 (hex=0x00000040)
+At key 0x00570f, val is 2 (hex=0x00000002)
+At key 0x005df3, val is 7 (hex=0x00000007)
+At key 0x005e16, val is 8 (hex=0x00000008)
+At key 0x006486, val is 3 (hex=0x00000003)
+At key 0x006623, val is 6 (hex=0x00000006)
+At key 0x0066d1, val is 64 (hex=0x00000040)
+At key 0x006a9a, val is 62 (hex=0x0000003e)
+At key 0x006ecf, val is 8 (hex=0x00000008)
+At key 0x006f8f, val is 8 (hex=0x00000008)
+At key 0x006fc6, val is 64 (hex=0x00000040)
+At key 0x007235, val is 14 (hex=0x0000000e)
+At key 0x007236, val is 16 (hex=0x00000010)
+At key 0x00726a, val is 31 (hex=0x0000001f)
+At key 0x0072a0, val is 6 (hex=0x00000006)
+At key 0x0072cf, val is 63 (hex=0x0000003f)
+At key 0x007735, val is 32 (hex=0x00000020)
+At key 0x00780d, val is 7 (hex=0x00000007)
+At key 0x0078e1, val is 64 (hex=0x00000040)
+At key 0x007945, val is 32 (hex=0x00000020)
+At key 0x007b50, val is 7 (hex=0x00000007)
+At key 0x007d09, val is 8 (hex=0x00000008)
+At key 0x0081ec, val is 31 (hex=0x0000001f)
+At key 0x00835a, val is 8 (hex=0x00000008)
+At key 0x0088f5, val is 32 (hex=0x00000020)
+At key 0x008a3f, val is 63 (hex=0x0000003f)
+At key 0x008d56, val is 64 (hex=0x00000040)
+At key 0x0090b0, val is 32 (hex=0x00000020)
+At key 0x009268, val is 63 (hex=0x0000003f)
+At key 0x009bbd, val is 64 (hex=0x00000040)
+At key 0x009c02, val is 64 (hex=0x00000040)
+At key 0x009c18, val is 8 (hex=0x00000008)
+At key 0x00a186, val is 3 (hex=0x00000003)
+At key 0x00a770, val is 64 (hex=0x00000040)
+At key 0x00a9ee, val is 31 (hex=0x0000001f)
+At key 0x00aa49, val is 8 (hex=0x00000008)
+At key 0x00aaed, val is 3 (hex=0x00000003)
+At key 0x00ad73, val is 8 (hex=0x00000008)
+At key 0x00b0b0, val is 32 (hex=0x00000020)
+At key 0x00b3ff, val is 8 (hex=0x00000008)
+At key 0x00bb15, val is 6 (hex=0x00000006)
+At key 0x00bf9e, val is 64 (hex=0x00000040)
+At key 0x00c7e2, val is 7 (hex=0x00000007)
+At key 0x00cb76, val is 8 (hex=0x00000008)
+At key 0x00cc2d, val is 8 (hex=0x00000008)
+At key 0x00cf1c, val is 8 (hex=0x00000008)
+At key 0x00d0b6, val is 32 (hex=0x00000020)
+At key 0x00d162, val is 32 (hex=0x00000020)
+At key 0x00d2b9, val is 6 (hex=0x00000006)
+At key 0x00d8c1, val is 64 (hex=0x00000040)
+At key 0x00ddd3, val is 62 (hex=0x0000003e)
+At key 0x00e48a, val is 58 (hex=0x0000003a)
+At key 0x00e514, val is 7 (hex=0x00000007)
+At key 0x00e5b8, val is 32 (hex=0x00000020)
+At key 0x00e622, val is 64 (hex=0x00000040)
+At key 0x00eaea, val is 63 (hex=0x0000003f)
+At key 0x00ecd4, val is 32 (hex=0x00000020)
+At key 0x00ecd5, val is 2 (hex=0x00000002)
+At key 0x00ecd6, val is 2 (hex=0x00000002)
+At key 0x00ecd7, val is 3 (hex=0x00000003)
+At key 0x00ecd8, val is 2 (hex=0x00000002)
+At key 0x00ecd9, val is 3 (hex=0x00000003)
+At key 0x00ecda, val is 3 (hex=0x00000003)
+At key 0x00ecdb, val is 2 (hex=0x00000002)
+At key 0x00ecdc, val is 4 (hex=0x00000004)
+At key 0x00ecdd, val is 3 (hex=0x00000003)
+At key 0x00ecde, val is 2 (hex=0x00000002)
+At key 0x00ecdf, val is 3 (hex=0x00000003)
+At key 0x00ece0, val is 3 (hex=0x00000003)
+At key 0x00ece1, val is 4 (hex=0x00000004)
+At key 0x00ece2, val is 5 (hex=0x00000005)
+At key 0x00ece3, val is 4 (hex=0x00000004)
+At key 0x00ece4, val is 3 (hex=0x00000003)
+At key 0x00ece5, val is 3 (hex=0x00000003)
+At key 0x00ece6, val is 4 (hex=0x00000004)
+At key 0x00ece7, val is 3 (hex=0x00000003)
+At key 0x00ece8, val is 4 (hex=0x00000004)
+At key 0x00ece9, val is 4 (hex=0x00000004)
+At key 0x00ecea, val is 3 (hex=0x00000003)
+At key 0x00eceb, val is 4 (hex=0x00000004)
+At key 0x00ecec, val is 5 (hex=0x00000005)
+At key 0x00eced, val is 3 (hex=0x00000003)
+At key 0x00ecee, val is 4 (hex=0x00000004)
+At key 0x00ecef, val is 5 (hex=0x00000005)
+At key 0x00ecf0, val is 5 (hex=0x00000005)
+At key 0x00ecf1, val is 6 (hex=0x00000006)
+At key 0x00ecf2, val is 4 (hex=0x00000004)
+At key 0x00ecf3, val is 3 (hex=0x00000003)
+At key 0x00ecf4, val is 4 (hex=0x00000004)
+At key 0x00ecf5, val is 5 (hex=0x00000005)
+At key 0x00ecf6, val is 5 (hex=0x00000005)
+At key 0x00ecf7, val is 6 (hex=0x00000006)
+At key 0x00ecf8, val is 4 (hex=0x00000004)
+At key 0x00ecf9, val is 4 (hex=0x00000004)
+At key 0x00ecfa, val is 5 (hex=0x00000005)
+At key 0x00ecfb, val is 1 (hex=0x00000001)
+At key 0x00ecfc, val is 2 (hex=0x00000002)
+At key 0x00ecfd, val is 3 (hex=0x00000003)
+At key 0x00ecfe, val is 3 (hex=0x00000003)
+At key 0x00ecff, val is 2 (hex=0x00000002)
+At key 0x00ed00, val is 2 (hex=0x00000002)
+At key 0x00ed01, val is 3 (hex=0x00000003)
+At key 0x00ed02, val is 4 (hex=0x00000004)
+At key 0x00ed03, val is 2 (hex=0x00000002)
+At key 0x00efed, val is 32 (hex=0x00000020)
+At key 0x00f17a, val is 8 (hex=0x00000008)
+At key 0x00f1f5, val is 64 (hex=0x00000040)
+At key 0x00f334, val is 7 (hex=0x00000007)
+At key 0x00f4b1, val is 6 (hex=0x00000006)
+At key 0x00f4e2, val is 8 (hex=0x00000008)
+At key 0x00f89d, val is 8 (hex=0x00000008)
+At key 0x00f902, val is 8 (hex=0x00000008)
+At key 0x00f998, val is 8 (hex=0x00000008)
+At key 0x00fbdc, val is 6 (hex=0x00000006)
+At key 0x00fe31, val is 31 (hex=0x0000001f)
+# DSF map 1
+===============Fuzzing test case #0===============
+(Test case is not favored)
+DSF update at key=0x00b426, val=4 (0x00000004); new aggregate: 4 (0x00000004); earlier was: 0 (0x00000000)
+DSF update at key=0x00fbdc, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 6 (0x00000006)
+adding results/queue/id:000001,src:000000,op:flip1,pos:11,+cov,+dsf to queue
+This input is the new top rated entry for key 0x00083f
+This input is the new top rated entry for key 0x000890
+This input is the new top rated entry for key 0x000bc6
+This input is the new top rated entry for key 0x002046
+This input is the new top rated entry for key 0x00228f
+This input is the new top rated entry for key 0x00259f
+This input is the new top rated entry for key 0x0026f3
+This input is the new top rated entry for key 0x002754
+This input is the new top rated entry for key 0x002a3f
+This input is the new top rated entry for key 0x0030e1
+This input is the new top rated entry for key 0x00330e
+This input is the new top rated entry for key 0x0038c7
+This input is the new top rated entry for key 0x0038df
+This input is the new top rated entry for key 0x003942
+This input is the new top rated entry for key 0x003eea
+This input is the new top rated entry for key 0x0041a2
+This input is the new top rated entry for key 0x004683
+This input is the new top rated entry for key 0x0047a1
+This input is the new top rated entry for key 0x004c56
+This input is the new top rated entry for key 0x004ea5
+This input is the new top rated entry for key 0x004ef3
+This input is the new top rated entry for key 0x004fad
+This input is the new top rated entry for key 0x0050ad
+This input is the new top rated entry for key 0x00528d
+This input is the new top rated entry for key 0x0052e1
+This input is the new top rated entry for key 0x0055cc
+This input is the new top rated entry for key 0x0056fd
+This input is the new top rated entry for key 0x005708
+This input is the new top rated entry for key 0x00570f
+This input is the new top rated entry for key 0x005df3
+This input is the new top rated entry for key 0x005e16
+This input is the new top rated entry for key 0x006486
+This input is the new top rated entry for key 0x006623
+This input is the new top rated entry for key 0x0066d1
+This input is the new top rated entry for key 0x006a9a
+This input is the new top rated entry for key 0x006ecf
+This input is the new top rated entry for key 0x006f8f
+This input is the new top rated entry for key 0x006fc6
+This input is the new top rated entry for key 0x007235
+This input is the new top rated entry for key 0x007236
+This input is the new top rated entry for key 0x00726a
+This input is the new top rated entry for key 0x0072a0
+This input is the new top rated entry for key 0x0072cf
+This input is the new top rated entry for key 0x007735
+This input is the new top rated entry for key 0x00780d
+This input is the new top rated entry for key 0x0078e1
+This input is the new top rated entry for key 0x007945
+This input is the new top rated entry for key 0x007b50
+This input is the new top rated entry for key 0x007d09
+This input is the new top rated entry for key 0x0081ec
+This input is the new top rated entry for key 0x00835a
+This input is the new top rated entry for key 0x0088f5
+This input is the new top rated entry for key 0x008a3f
+This input is the new top rated entry for key 0x008d56
+This input is the new top rated entry for key 0x0090b0
+This input is the new top rated entry for key 0x009268
+This input is the new top rated entry for key 0x009bbd
+This input is the new top rated entry for key 0x009c02
+This input is the new top rated entry for key 0x009c18
+This input is the new top rated entry for key 0x00a186
+This input is the new top rated entry for key 0x00a770
+This input is the new top rated entry for key 0x00a9ee
+This input is the new top rated entry for key 0x00aa49
+This input is the new top rated entry for key 0x00aaed
+This input is the new top rated entry for key 0x00ad73
+This input is the new top rated entry for key 0x00b0b0
+This input is the new top rated entry for key 0x00b3ff
+This input is the new top rated entry for key 0x00b426
+This input is the new top rated entry for key 0x00bb15
+This input is the new top rated entry for key 0x00bf9e
+This input is the new top rated entry for key 0x00c7e2
+This input is the new top rated entry for key 0x00cb76
+This input is the new top rated entry for key 0x00cc2d
+This input is the new top rated entry for key 0x00cf1c
+This input is the new top rated entry for key 0x00d0b6
+This input is the new top rated entry for key 0x00d162
+This input is the new top rated entry for key 0x00d2b9
+This input is the new top rated entry for key 0x00d8c1
+This input is the new top rated entry for key 0x00ddd3
+This input is the new top rated entry for key 0x00e48a
+This input is the new top rated entry for key 0x00e514
+This input is the new top rated entry for key 0x00e5b8
+This input is the new top rated entry for key 0x00e622
+This input is the new top rated entry for key 0x00eaea
+This input is the new top rated entry for key 0x00ecd4
+This input is the new top rated entry for key 0x00ecd5
+This input is the new top rated entry for key 0x00ecd6
+This input is the new top rated entry for key 0x00ecd7
+This input is the new top rated entry for key 0x00ecd8
+This input is the new top rated entry for key 0x00ecd9
+This input is the new top rated entry for key 0x00ecda
+This input is the new top rated entry for key 0x00ecdb
+This input is the new top rated entry for key 0x00ecdc
+This input is the new top rated entry for key 0x00ecdd
+This input is the new top rated entry for key 0x00ecde
+This input is the new top rated entry for key 0x00ecdf
+This input is the new top rated entry for key 0x00ece0
+This input is the new top rated entry for key 0x00ece1
+This input is the new top rated entry for key 0x00ece2
+This input is the new top rated entry for key 0x00ece3
+This input is the new top rated entry for key 0x00ece4
+This input is the new top rated entry for key 0x00ece5
+This input is the new top rated entry for key 0x00ece6
+This input is the new top rated entry for key 0x00ece7
+This input is the new top rated entry for key 0x00ece8
+This input is the new top rated entry for key 0x00ece9
+This input is the new top rated entry for key 0x00ecea
+This input is the new top rated entry for key 0x00eceb
+This input is the new top rated entry for key 0x00ecec
+This input is the new top rated entry for key 0x00eced
+This input is the new top rated entry for key 0x00ecee
+This input is the new top rated entry for key 0x00ecef
+This input is the new top rated entry for key 0x00ecf0
+This input is the new top rated entry for key 0x00ecf1
+This input is the new top rated entry for key 0x00ecf2
+This input is the new top rated entry for key 0x00ecf3
+This input is the new top rated entry for key 0x00ecf4
+This input is the new top rated entry for key 0x00ecf5
+This input is the new top rated entry for key 0x00ecf6
+This input is the new top rated entry for key 0x00ecf7
+This input is the new top rated entry for key 0x00ecf8
+This input is the new top rated entry for key 0x00ecf9
+This input is the new top rated entry for key 0x00ecfa
+This input is the new top rated entry for key 0x00ecfb
+This input is the new top rated entry for key 0x00ecfc
+This input is the new top rated entry for key 0x00ecfd
+This input is the new top rated entry for key 0x00ecfe
+This input is the new top rated entry for key 0x00ecff
+This input is the new top rated entry for key 0x00ed00
+This input is the new top rated entry for key 0x00ed01
+This input is the new top rated entry for key 0x00ed02
+This input is the new top rated entry for key 0x00ed03
+This input is the new top rated entry for key 0x00efed
+This input is the new top rated entry for key 0x00f17a
+This input is the new top rated entry for key 0x00f1f5
+This input is the new top rated entry for key 0x00f334
+This input is the new top rated entry for key 0x00f4b1
+This input is the new top rated entry for key 0x00f4e2
+This input is the new top rated entry for key 0x00f89d
+This input is the new top rated entry for key 0x00f902
+This input is the new top rated entry for key 0x00f998
+This input is the new top rated entry for key 0x00fbdc
+This input is the new top rated entry for key 0x00fe31
+adding results/queue/id:000002,src:000000,op:flip1,pos:11 to queue
+adding results/queue/id:000003,src:000000,op:flip1,pos:17,+cov to queue
+adding results/queue/id:000004,src:000000,op:flip1,pos:18 to queue
+DSF update at key=0x00aeb4, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 0 (0x00000000)
+adding results/queue/id:000005,src:000000,op:flip1,pos:35,+cov,+dsf to queue
+This input is the new top rated entry for key 0x00aeb4
+DSF update at key=0x003cd4, val=64 (0x00000040); new aggregate: 64 (0x00000040); earlier was: 0 (0x00000000)
+DSF update at key=0x004ea5, val=64 (0x00000040); new aggregate: 64 (0x00000040); earlier was: 5 (0x00000005)
+DSF update at key=0x00528d, val=64 (0x00000040); new aggregate: 64 (0x00000040); earlier was: 60 (0x0000003c)
+DSF update at key=0x0055cc, val=64 (0x00000040); new aggregate: 64 (0x00000040); earlier was: 63 (0x0000003f)
+DSF update at key=0x00cf6e, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 0 (0x00000000)
+adding results/queue/id:000006,src:000000,op:flip1,pos:38,+cov,+dsf to queue
+This input is the new top rated entry for key 0x003cd4
+This input is the new top rated entry for key 0x004ea5
+This input is the new top rated entry for key 0x00528d
+This input is the new top rated entry for key 0x0055cc
+This input is the new top rated entry for key 0x00cf6e
+adding results/queue/id:000007,src:000000,op:flip1,pos:40,+cov to queue
+DSF update at key=0x0000e0, val=31 (0x0000001f); new aggregate: 31 (0x0000001f); earlier was: 0 (0x00000000)
+DSF update at key=0x003765, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 0 (0x00000000)
+adding results/queue/id:000008,src:000000,op:flip2,pos:0,+cov,+dsf to queue
+This input is the new top rated entry for key 0x0000e0
+This input is the new top rated entry for key 0x003765
+DSF update at key=0x00b426, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 4 (0x00000004)
+DSF update at key=0x00d2b9, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 6 (0x00000006)
+DSF update at key=0x00fbfb, val=5 (0x00000005); new aggregate: 5 (0x00000005); earlier was: 0 (0x00000000)
+adding results/queue/id:000009,src:000000,op:flip2,pos:5,+cov,+dsf to queue
+This input is the new top rated entry for key 0x00b426
+This input is the new top rated entry for key 0x00d2b9
+This input is the new top rated entry for key 0x00fbfb
+DSF update at key=0x0041a2, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 6 (0x00000006)
+adding results/queue/id:000010,src:000000,op:flip2,pos:20,+dsf to queue
+This input is the new top rated entry for key 0x0041a2
+adding results/queue/id:000011,src:000000,op:flip2,pos:26 to queue
+adding results/queue/id:000012,src:000000,op:flip2,pos:31 to queue
+adding results/queue/id:000013,src:000000,op:flip4,pos:8 to queue
+DSF update at key=0x00aeb4, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 6 (0x00000006)
+adding results/queue/id:000014,src:000000,op:flip4,pos:32,+dsf to queue
+This input is the new top rated entry for key 0x00aeb4
+DSF update at key=0x00aeb4, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 7 (0x00000007)
+adding results/queue/id:000015,src:000000,op:flip4,pos:37,+cov,+dsf to queue
+This input is the new top rated entry for key 0x00aeb4
+DSF update at key=0x0003ce, val=2 (0x00000002); new aggregate: 2 (0x00000002); earlier was: 0 (0x00000000)
+DSF update at key=0x005814, val=64 (0x00000040); new aggregate: 64 (0x00000040); earlier was: 0 (0x00000000)
+adding results/queue/id:000016,src:000000,op:flip32,pos:41,+cov,+dsf to queue
+This input is the new top rated entry for key 0x0003ce
+This input is the new top rated entry for key 0x005814
+DSF update at key=0x00fbfb, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 5 (0x00000005)
+adding results/queue/id:000017,src:000000,op:arith8,pos:2,val:+17,+dsf to queue
+This input is the new top rated entry for key 0x00fbfb
+DSF update at key=0x00fbfb, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 6 (0x00000006)
+adding results/queue/id:000018,src:000000,op:arith8,pos:8,val:+10,+dsf to queue
+This input is the new top rated entry for key 0x00fbfb
+DSF update at key=0x0041a2, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 7 (0x00000007)
+adding results/queue/id:000019,src:000000,op:arith8,pos:17,val:+3,+cov,+dsf to queue
+This input is the new top rated entry for key 0x0041a2
+DSF update at key=0x009131, val=4 (0x00000004); new aggregate: 4 (0x00000004); earlier was: 0 (0x00000000)
+DSF update at key=0x00b426, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 6 (0x00000006)
+adding results/queue/id:000020,src:000000,op:arith8,pos:18,val:+12,+cov,+dsf to queue
+This input is the new top rated entry for key 0x009131
+This input is the new top rated entry for key 0x00b426
+adding results/queue/id:000021,src:000000,op:arith8,pos:29,val:+10 to queue
+adding results/queue/id:000022,src:000000,op:int8,pos:38,val:+0,+cov to queue
+DSF update at key=0x003765, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 6 (0x00000006)
+adding results/queue/id:000023,src:000000,op:int16,pos:0,val:+0,+cov,+dsf to queue
+This input is the new top rated entry for key 0x003765
+adding results/queue/id:000024,src:000000,op:int32,pos:0,val:+0 to queue
+adding results/queue/id:000025,src:000000,op:int32,pos:0,val:+1 to queue
+adding results/queue/id:000026,src:000000,op:int32,pos:0,val:+256,+cov to queue
+adding results/queue/id:000027,src:000000,op:havoc,rep:128 to queue
+adding results/queue/id:000028,src:000000,op:havoc,rep:16 to queue
+adding results/queue/id:000029,src:000000,op:havoc,rep:8,+cov to queue
+DSF update at key=0x006623, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 6 (0x00000006)
+adding results/queue/id:000030,src:000000,op:havoc,rep:64,+dsf to queue
+This input is the new top rated entry for key 0x006623
+adding results/queue/id:000031,src:000000,op:havoc,rep:128 to queue
+adding results/queue/id:000032,src:000000,op:havoc,rep:8 to queue
+DSF update at key=0x006623, val=13 (0x0000000d); new aggregate: 13 (0x0000000d); earlier was: 7 (0x00000007)
+adding results/queue/id:000033,src:000000,op:havoc,rep:64,+dsf to queue
+This input is the new top rated entry for key 0x006623
+adding results/queue/id:000034,src:000000,op:havoc,rep:64 to queue
+adding results/queue/id:000035,src:000000,op:havoc,rep:16 to queue
+adding results/queue/id:000036,src:000000,op:havoc,rep:128,+cov to queue
+DSF update at key=0x009131, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 4 (0x00000004)
+adding results/queue/id:000037,src:000000,op:havoc,rep:8,+cov,+dsf to queue
+This input is the new top rated entry for key 0x009131
+adding results/queue/id:000038,src:000000,op:havoc,rep:16 to queue
+DSF update at key=0x00fbfb, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 7 (0x00000007)
+adding results/queue/id:000039,src:000000,op:havoc,rep:16,+cov,+dsf to queue
+This input is the new top rated entry for key 0x00fbfb
+DSF update at key=0x0081b2, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 0 (0x00000000)
+DSF update at key=0x00a143, val=58 (0x0000003a); new aggregate: 58 (0x0000003a); earlier was: 0 (0x00000000)
+adding results/queue/id:000040,src:000000,op:havoc,rep:128,+cov,+dsf to queue
+This input is the new top rated entry for key 0x0081b2
+This input is the new top rated entry for key 0x00a143
+DSF update at key=0x004683, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 31 (0x0000001f)
+DSF update at key=0x008fb2, val=3 (0x00000003); new aggregate: 3 (0x00000003); earlier was: 0 (0x00000000)
+adding results/queue/id:000041,src:000000,op:havoc,rep:128,+cov,+dsf to queue
+This input is the new top rated entry for key 0x004683
+This input is the new top rated entry for key 0x008fb2
+adding results/queue/id:000042,src:000000,op:havoc,rep:4,+cov to queue
+DSF update at key=0x00a143, val=59 (0x0000003b); new aggregate: 59 (0x0000003b); earlier was: 58 (0x0000003a)
+adding results/queue/id:000043,src:000000,op:havoc,rep:64,+dsf to queue
+This input is the new top rated entry for key 0x00a143
+adding results/queue/id:000044,src:000000,op:havoc,rep:64,+cov to queue
+adding results/queue/id:000045,src:000000,op:havoc,rep:32,+cov to queue
+adding results/queue/id:000046,src:000000,op:havoc,rep:8 to queue
+adding results/queue/id:000047,src:000000,op:havoc,rep:8 to queue
+adding results/queue/id:000048,src:000000,op:havoc,rep:128 to queue
+adding results/queue/id:000049,src:000000,op:havoc,rep:128 to queue
+adding results/queue/id:000050,src:000000,op:havoc,rep:64 to queue
+DSF update at key=0x008fb2, val=4 (0x00000004); new aggregate: 4 (0x00000004); earlier was: 3 (0x00000003)
+adding results/queue/id:000051,src:000000,op:havoc,rep:64,+dsf to queue
+This input is the new top rated entry for key 0x008fb2
+adding results/queue/id:000052,src:000000,op:havoc,rep:32 to queue
+adding results/queue/id:000053,src:000000,op:havoc,rep:128 to queue
+adding results/queue/id:000054,src:000000,op:havoc,rep:64 to queue
+adding results/queue/id:000055,src:000000,op:havoc,rep:128 to queue
+DSF update at key=0x008fb2, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 4 (0x00000004)
+adding results/queue/id:000056,src:000000,op:havoc,rep:128,+dsf to queue
+This input is the new top rated entry for key 0x008fb2
+adding results/queue/id:000057,src:000000,op:havoc,rep:16 to queue
+adding results/queue/id:000058,src:000000,op:havoc,rep:32 to queue
+adding results/queue/id:000059,src:000000,op:havoc,rep:64 to queue
+DSF update at key=0x00a143, val=60 (0x0000003c); new aggregate: 60 (0x0000003c); earlier was: 59 (0x0000003b)
+adding results/queue/id:000060,src:000000,op:havoc,rep:128,+dsf to queue
+This input is the new top rated entry for key 0x00a143
+adding results/queue/id:000061,src:000000,op:havoc,rep:128 to queue
+adding results/queue/id:000062,src:000000,op:havoc,rep:32 to queue
+adding results/queue/id:000063,src:000000,op:havoc,rep:64 to queue
+adding results/queue/id:000064,src:000000,op:havoc,rep:128 to queue
+adding results/queue/id:000065,src:000000,op:havoc,rep:16 to queue
+adding results/queue/id:000066,src:000000,op:havoc,rep:8 to queue
+adding results/queue/id:000067,src:000000,op:havoc,rep:16 to queue
+adding results/queue/id:000068,src:000000,op:havoc,rep:128 to queue
+adding results/queue/id:000069,src:000000,op:havoc,rep:4 to queue
+adding results/queue/id:000070,src:000000,op:havoc,rep:16 to queue
+DSF update at key=0x006623, val=14 (0x0000000e); new aggregate: 14 (0x0000000e); earlier was: 13 (0x0000000d)
+adding results/queue/id:000071,src:000000,op:havoc,rep:128,+dsf to queue
+This input is the new top rated entry for key 0x006623
+DSF update at key=0x00a143, val=61 (0x0000003d); new aggregate: 61 (0x0000003d); earlier was: 60 (0x0000003c)
+adding results/queue/id:000072,src:000000,op:havoc,rep:128,+dsf to queue
+This input is the new top rated entry for key 0x00a143
+adding results/queue/id:000073,src:000000,op:havoc,rep:128 to queue
+adding results/queue/id:000074,src:000000,op:havoc,rep:32 to queue
+DSF update at key=0x006623, val=15 (0x0000000f); new aggregate: 15 (0x0000000f); earlier was: 14 (0x0000000e)
+adding results/queue/id:000075,src:000000,op:havoc,rep:128,+dsf to queue
+This input is the new top rated entry for key 0x006623
+adding results/queue/id:000076,src:000000,op:havoc,rep:128 to queue
+adding results/queue/id:000077,src:000000,op:havoc,rep:128 to queue
+adding results/queue/id:000078,src:000000,op:havoc,rep:128 to queue
+adding results/queue/id:000079,src:000000,op:havoc,rep:32 to queue
+DSF update at key=0x008fb2, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 6 (0x00000006)
+adding results/queue/id:000080,src:000000,op:havoc,rep:128,+cov,+dsf to queue
+adding results/queue/id:000081,src:000000,op:havoc,rep:64 to queue
+This input is the new top rated entry for key 0x008fb2
+adding results/queue/id:000082,src:000000,op:havoc,rep:128 to queue
+adding results/queue/id:000083,src:000000,op:havoc,rep:128 to queue
+adding results/queue/id:000084,src:000000,op:havoc,rep:128 to queue
+adding results/queue/id:000085,src:000000,op:havoc,rep:32 to queue
+adding results/queue/id:000086,src:000000,op:havoc,rep:32 to queue
+adding results/queue/id:000087,src:000000,op:havoc,rep:4 to queue
+DSF update at key=0x00a143, val=62 (0x0000003e); new aggregate: 62 (0x0000003e); earlier was: 61 (0x0000003d)
+adding results/queue/id:000088,src:000000,op:havoc,rep:32,+dsf to queue
+adding results/queue/id:000089,src:000000,op:havoc,rep:64 to queue
+adding results/queue/id:000090,src:000000,op:havoc,rep:32 to queue
+This input is the new top rated entry for key 0x00a143
+adding results/queue/id:000091,src:000000,op:havoc,rep:32 to queue
+adding results/queue/id:000092,src:000000,op:havoc,rep:128 to queue
+adding results/queue/id:000093,src:000000,op:havoc,rep:128 to queue
+adding results/queue/id:000094,src:000000,op:havoc,rep:64 to queue
+adding results/queue/id:000095,src:000000,op:havoc,rep:128 to queue
+DSF update at key=0x00a143, val=64 (0x00000040); new aggregate: 64 (0x00000040); earlier was: 62 (0x0000003e)
+adding results/queue/id:000096,src:000000,op:havoc,rep:16,+dsf to queue
+This input is the new top rated entry for key 0x00a143
+adding results/queue/id:000097,src:000000,op:havoc,rep:16 to queue
+adding results/queue/id:000098,src:000000,op:havoc,rep:128 to queue
+adding results/queue/id:000099,src:000000,op:havoc,rep:128 to queue
+adding results/queue/id:000100,src:000000,op:havoc,rep:32 to queue
+adding results/queue/id:000101,src:000000,op:havoc,rep:16 to queue
+adding results/queue/id:000102,src:000000,op:havoc,rep:64 to queue
+adding results/queue/id:000103,src:000000,op:havoc,rep:64 to queue
+adding results/queue/id:000104,src:000000,op:havoc,rep:128 to queue
+adding results/queue/id:000105,src:000000,op:havoc,rep:32 to queue
+adding results/queue/id:000106,src:000000,op:havoc,rep:64 to queue
+DSF update at key=0x00194b, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 0 (0x00000000)
+DSF update at key=0x004be4, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 0 (0x00000000)
+DSF update at key=0x005d00, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 0 (0x00000000)
+adding results/queue/id:000107,src:000000,op:havoc,rep:128,+cov,+dsf to queue
+This input is the new top rated entry for key 0x00194b
+This input is the new top rated entry for key 0x004be4
+This input is the new top rated entry for key 0x005d00
+adding results/queue/id:000108,src:000000,op:havoc,rep:128 to queue
+DSF update at key=0x006623, val=16 (0x00000010); new aggregate: 16 (0x00000010); earlier was: 15 (0x0000000f)
+adding results/queue/id:000109,src:000000,op:havoc,rep:128,+dsf to queue
+This input is the new top rated entry for key 0x006623
+===============Fuzzing test case #1===============
+adding results/queue/id:000110,src:000001,op:havoc,rep:4 to queue
+adding results/queue/id:000111,src:000001,op:havoc,rep:8 to queue
+adding results/queue/id:000112,src:000001,op:havoc,rep:32 to queue
+adding results/queue/id:000113,src:000001,op:havoc,rep:64 to queue
+adding results/queue/id:000114,src:000001,op:havoc,rep:4 to queue
+adding results/queue/id:000115,src:000001,op:havoc,rep:32 to queue
+adding results/queue/id:000116,src:000001,op:havoc,rep:128 to queue
+adding results/queue/id:000117,src:000001,op:havoc,rep:32 to queue
+adding results/queue/id:000118,src:000001,op:havoc,rep:32 to queue
+adding results/queue/id:000119,src:000001,op:havoc,rep:64 to queue
+adding results/queue/id:000120,src:000001,op:havoc,rep:128 to queue
+===============Fuzzing test case #6===============
+adding results/queue/id:000121,src:000006,op:havoc,rep:32 to queue
+===============Fuzzing test case #8===============
+===============Fuzzing test case #9===============
+adding results/queue/id:000122,src:000009,op:havoc,rep:64 to queue
+adding results/queue/id:000123,src:000009,op:havoc,rep:128 to queue
+adding results/queue/id:000124,src:000009,op:havoc,rep:64 to queue
+adding results/queue/id:000125,src:000009,op:havoc,rep:128 to queue
+adding results/queue/id:000126,src:000009,op:havoc,rep:64 to queue
+===============Fuzzing test case #15===============
+===============Fuzzing test case #16===============
+DSF update at key=0x006623, val=17 (0x00000011); new aggregate: 17 (0x00000011); earlier was: 16 (0x00000010)
+adding results/queue/id:000127,src:000016,op:havoc,rep:32,+dsf to queue
+This input is the new top rated entry for key 0x006623
+===============Fuzzing test case #19===============
+===============Fuzzing test case #20===============
+adding results/queue/id:000128,src:000020,op:havoc,rep:64 to queue
+===============Fuzzing test case #23===============
+===============Fuzzing test case #37===============

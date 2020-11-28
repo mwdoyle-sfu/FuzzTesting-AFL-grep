@@ -1,0 +1,12 @@
+Altered make file at CC from 'gcc' to 'CC = WAYPOINTS=cmp ../../afl-clang-fast # add the shit here'
+
+run from src directory
+
+tried using these but results didnt look good:
+../../afl-fuzz -p -i seeds -o results ./grep
+../../afl-fuzz -p -i seeds -o results ./grep 'for' text.txt
+
+
+these ones seem the best so far:
+../../afl-fuzz -p -i seeds -o results ./grep 'for'
+../../afl-fuzz -p -i seeds -o results ./grep text.txt
